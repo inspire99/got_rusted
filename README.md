@@ -1,1 +1,2 @@
-# got_rusted
+1. hello world project
+2. hello cargo project
